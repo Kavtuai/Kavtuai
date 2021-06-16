@@ -10,6 +10,7 @@
 - 🌱│ JavaScript, Css ve Html Üzerinde Baya Bilgim Bulunmakta.
 
 - 💠│ [Discord](https://discord.gg/TW49UKwXe5) Sunucumuza Gelerek Bizim Topluluğumuza Katılabilirsin!
+<hr>
 ## Kullandıklarım:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
@@ -21,8 +22,8 @@
 ![Heroku](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 <img src="https://komarev.com/ghpvc/?username=Kavtuai&label=Ziyaretçi%20Sayısı&color=552b75" alt="Kavtuai" />
+<hr>
 <h3>🌟 Sosyal Medya Hesaplarım:</h3>
 <p align="left">
      <a href="https://instagram.com/mamig.dll" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
