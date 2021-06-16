@@ -1,13 +1,15 @@
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
--👋 Ben Muhammed "Kavtuai" Can. 
+- 👋│ Ben Muhammed "Kavtuai" Can. 
 
-- 👀 4 Senedir Discord Kullanıyorum.
+- 👀│ 4 Senedir Discord Kullanıyorum.
 
-- 🌱JavaScript, Css ve Html Üzerinde Baya Bilgim Bulunmakta.
+- 🤖│ Kodlamalarımı Mantık Üzerine Oluşturup Yapıyorum.
 
-- 💞 
+- 🌱│ JavaScript, Css ve Html Üzerinde Baya Bilgim Bulunmakta.
+
+- 💠│ ![Discord](https://discord.gg/TW49UKwXe5) Sunucumuza Gelerek Bizim Topluluğumuza Katılabilirsin!
 
 #Kullandığım Programlar:
 <br><br>
@@ -22,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <img src="https://komarev.com/ghpvc/?username=Kavtuai&label=Ziyaretçi%20Sayısı&color=552b75" alt="Kavtuai" />
-<h3>🌟 Sosyal medya hesaplarım!</h3>
+<h3>🌟 Sosyal Medya Hesaplarım:</h3>
 <p align="left">
      <a href="https://instagram.com/mamig.dll" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitch.tv/kavtuai" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
