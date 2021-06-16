@@ -21,9 +21,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-
-
 <img src="https://komarev.com/ghpvc/?username=Kavtuai&label=Ziyaretçi%20Sayısı&color=552b75" alt="Kavtuai" />
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 <p align="left">
@@ -33,5 +30,7 @@
  <a href="https://open.spotify.com/user/g235udzsbl4a34u9tovryhrcb" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 <p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kavtuai&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavtuai&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
 </p>
