@@ -10,6 +10,7 @@
 - 
 
 ##Kullandığım Programlar:
+<br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -33,5 +34,5 @@
  <a href="https://open.spotify.com/user/nmx6xocb1zju8ee281ppng20g?si=1f85152e4e854514" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=Kavtuai&theme=nord&row=1" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavtuai&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
 </p>
