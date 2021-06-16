@@ -9,9 +9,9 @@
 
 - 🌱│ JavaScript, Css ve Html Üzerinde Baya Bilgim Bulunmakta.
 
-- 💠│ ![Discord](https://discord.gg/TW49UKwXe5) Sunucumuza Gelerek Bizim Topluluğumuza Katılabilirsin!
+- 💠│ [Discord](https://discord.gg/TW49UKwXe5) Sunucumuza Gelerek Bizim Topluluğumuza Katılabilirsin!
 
-#Kullandığım Programlar:
+## Kullandıklarım:
 <br><br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 ![VS Code](https://img.shields.io/static/v1?style=flat-square&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
