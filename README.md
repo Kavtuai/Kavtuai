@@ -25,6 +25,7 @@
 <img src="https://komarev.com/ghpvc/?username=Kavtuai&label=Ziyaretçi%20Sayısı&color=552b75" alt="Kavtuai" />
 <hr>
 <h3>🌟 Sosyal Medya Hesaplarım:</h3>
+<center>
 <p align="left">
      <a href="https://instagram.com/mamig.dll" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
        <a href="https://twitch.tv/kavtuai" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
@@ -36,3 +37,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=kavtuai&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavtuai&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
 </p>
+</center>
