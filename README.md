@@ -1,18 +1,16 @@
 <div align="center">
 
-# Merhaba, ben Muhammed Can 👋  
+# Merhaba, ben Muhammed Can 👋
 ### `Kavtuai` olarak biliniyorum.
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="80px" alt="Merhaba Gif" />
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="80px" alt="Merhaba" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Kavtuai&label=Profil%20Görüntülenmesi&color=552b75&style=for-the-badge" alt="Profil görüntülenmesi" />
-  <img src="https://img.shields.io/github/followers/Kavtuai?label=Takip%C3%A7i&style=for-the-badge&color=6C63FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Kavtuai?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f5c542" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Kavtuai&label=Profil%20G%C3%B6r%C3%BCnt%C3%BClenmesi&color=552b75&style=for-the-badge" alt="Profil görüntülenmesi" />
+  <img src="https://img.shields.io/github/followers/Kavtuai?label=Takip%C3%A7i&style=for-the-badge&color=6C63FF" alt="Takipçi sayısı" />
 </p>
 
-### Yazılım, topluluk ve mantık odaklı geliştirme.  
-### JavaScript • HTML • CSS • Node.js • Discord
+### Mantık odaklı geliştirme, topluluk yönetimi ve modern web teknolojileri.
 
 </div>
 
@@ -21,68 +19,78 @@
 ## 🚀 Hakkımda
 
 Merhaba! Ben **Muhammed Can**, internette daha çok **Kavtuai** ismiyle tanınıyorum.  
-Yaklaşık **4 senedir Discord** kullanıyorum ve bu süreçte hem topluluk yapılarıyla hem de yazılım tarafıyla oldukça iç içe oldum.
+Yaklaşık **4 senedir Discord** kullanıyorum ve bu süreçte topluluk yapıları, bot sistemleri ve yazılım geliştirme tarafında kendimi geliştirmeye devam ediyorum.
 
-Yazılım geliştirirken olabildiğince **mantık temelli**, **düzenli** ve **işlevsel** ilerlemeyi seviyorum.  
-Özellikle web tarafında ve bot/proje mantığında üretmeyi seviyorum.
+Kod yazarken olabildiğince:
 
-- 💡 Kod yazarken önce mantığı kurar, sonra sistemi inşa ederim.
-- 🤖 Discord ekosistemine, topluluk yönetimine ve proje geliştirmeye ilgiliyim.
-- 🌱 Özellikle **JavaScript**, **HTML** ve **CSS** alanlarında iyi seviyede bilgi sahibiyim.
-- 🛠️ Öğrendikçe üretmeyi, ürettikçe geliştirmeyi seviyorum.
-- 🎯 Hedefim hem kendimi geliştirmek hem de insanlara fayda sağlayan projeler üretmek.
+- 🧠 **mantık odaklı**
+- ⚙️ **düzenli**
+- 🔥 **işlevsel**
+- ✨ **temiz görünümlü**
 
----
+bir yapı kurmayı seviyorum.
 
-## 🧠 Şu Anda Odaklandığım Alanlar
-
-- Daha temiz ve sürdürülebilir kod yapıları kurmak
-- Discord tabanlı sistemler ve topluluk projeleri geliştirmek
-- Frontend tarafında daha iyi arayüzler üretmek
-- JavaScript ekosisteminde kendimi ileri taşımak
-- Yeni teknolojileri öğrenip projelere entegre etmek
+Özellikle web tarafı, Discord sistemleri ve topluluk projeleri ilgimi çekiyor.  
+Öğrendikçe geliştirmeyi, geliştirdikçe üretmeyi seviyorum.
 
 ---
 
-## 💻 Teknoloji Yığınım
+## 🧩 Yazılım Dilleri
 
-### 🧩 Diller
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
+<div align="center">
 
-### ⚙️ Araçlar ve Ortam
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=fff" alt="npm" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" alt="GitHub" />
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=ffffff" alt="Ruby" />
+
+</div>
 
 ---
 
-## 📌 Geliştirme Anlayışım
+## ⚡ Frameworkler ve Teknolojiler
 
-Kod benim için sadece çalışan satırlar değil.  
-Bir sistemin:
+<div align="center">
 
-- anlaşılır olması,
-- geliştirilebilir olması,
-- mantıklı çalışması,
-- kullanıcıya net bir deneyim sunması
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff" alt="Next.js" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=ffffff" alt="Vite" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
 
-çok önemli.
-
-Bu yüzden projelerimde mümkün olduğunca **temiz yapı**, **düzenli mantık**, **okunabilir kod** ve **işlevsellik** odaklı ilerlemeye çalışıyorum.
+</div>
 
 ---
 
-## 🌍 Topluluk ve Sosyal Hesaplarım
+## 🛠️ Araçlar ve Ortam
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=ffffff" alt="npm" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Vercel" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=ffffff" alt="Supabase" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=ffffff" alt="Heroku" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=ffffff" alt="Markdown" />
+
+</div>
+
+---
+
+## 🎯 Şu Anda Odaklandıklarım
+
+- Modern web teknolojileriyle daha sağlam projeler geliştirmek
+- Discord tabanlı sistemler kurmak ve geliştirmek
+- Arayüz tasarımında daha temiz ve daha iyi deneyimler sunmak
+- JavaScript ve TypeScript tarafında kendimi ileri taşımak
+- Yeni teknolojileri öğrenip gerçek projelerde kullanmak
+
+---
+
+## 🌍 Sosyal Medya ve Topluluk
 
 <div align="center">
 
@@ -106,13 +114,19 @@ Bu yüzden projelerimde mümkün olduğunca **temiz yapı**, **düzenli mantık*
 
 ---
 
-## 💠 Topluluğuma Katıl
+## 💬 Kısa Bir Not
 
-Eğer benimle iletişim kurmak, projelerimi takip etmek ya da topluluğumuzun bir parçası olmak istersen  
-**Discord sunucumuza katılabilirsin.**
+Kod benim için sadece çalışan şeyler üretmek değil;  
+aynı zamanda **okunabilir**, **geliştirilebilir** ve **güzel görünen** sistemler kurmak demek.
 
-> 🔗 **Sunucu Bağlantısı:**  
-> [Discord Sunucusuna Katıl](https://discord.gg/TW49UKwXe5)
+Bu yüzden projelerimde mümkün olduğunca:
+
+- temiz yapı
+- mantıklı kurgu
+- sade tasarım
+- iyi kullanıcı deneyimi
+
+odaklı ilerlemeyi seviyorum.
 
 ---
 
@@ -120,40 +134,31 @@ Eğer benimle iletişim kurmak, projelerimi takip etmek ya da topluluğumuzun bi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavtuai&show_icons=true&hide_title=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavtuai&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=tokyonight" alt="Kavtuai GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavtuai&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kavtuai&layout=compact&langs_count=8&hide_title=true&hide_border=true&theme=tokyonight&card_width=320" alt="Kavtuai Top Languages" />
 
 </div>
 
 ---
 
-## 🔥 Katkı Grafiğim
+## 📈 Aktivite Grafiğim
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavtuai&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavtuai&theme=tokyo-night&hide_border=true&area=true" alt="Kavtuai Activity Graph" />
 
 </div>
 
 ---
 
-## 🏆 Profil Vurguları
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kavtuai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kavtuai&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="Kavtuai GitHub Trophies" />
 
 </div>
-
----
-
-## ✨ Kısa Not
-
-Buraya kadar geldiysen hoş geldin demek yetmez, direkt saygı duydum.  
-Profilimde; öğrenmeye açık, üretmeyi seven ve mantık odaklı çalışan bir geliştirici görüyorsun.
-
-Yeni projeler, yeni fikirler ve daha güçlü sistemler için üretmeye devam ediyorum. 🚀
 
 ---
 
@@ -162,14 +167,14 @@ Yeni projeler, yeni fikirler ve daha güçlü sistemler için üretmeye devam ed
 - Instagram: [@mamig.dll](https://instagram.com/mamig.dll)
 - Twitch: [kavtuai](https://twitch.tv/kavtuai)
 - YouTube: [ShenaTR](https://www.youtube.com/c/ShenaTR/videos)
-- Spotify: [Profilim](https://open.spotify.com/user/g235udzsbl4a34u9tovryhrcb)
-- Discord: [Topluluğa Katıl](https://discord.gg/TW49UKwXe5)
+- Spotify: [Spotify Profilim](https://open.spotify.com/user/g235udzsbl4a34u9tovryhrcb)
+- Discord: [Topluluğumuza Katıl](https://discord.gg/TW49UKwXe5)
 
 ---
 
 <div align="center">
 
-### Profilime göz attığın için teşekkür ederim.  
-### İyi kodlar dilerim 👾
+### Profilime göz attığın için teşekkür ederim 💜  
+### İyi kodlar, bol kahve, az bug diliyorum. 👾
 
 </div>
