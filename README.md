@@ -1,7 +1,7 @@
 <div align="center">
 
 # Merhaba, ben Muhammed Can 👋
-### `Kavtuai` olarak biliniyorum.
+### `Kavtuai` veya `mxyouone` olarak biliniyorum.
 
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="80px" alt="Merhaba" />
 
@@ -18,8 +18,8 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! Ben **Muhammed Can**, internette daha çok **Kavtuai** ismiyle tanınıyorum.  
-Yaklaşık **4 senedir Discord** kullanıyorum ve bu süreçte topluluk yapıları, bot sistemleri ve yazılım geliştirme tarafında kendimi geliştirmeye devam ediyorum.
+Merhaba! Ben **Muhammed Can**, internette daha çok **Kavtuai/mxyouone** ismiyle tanınıyorum.  
+Yaklaşık **9 senedir** yazılım geliştirmeye ilgi duyuyorum ve bu süreçte topluluk yapıları, bot sistemleri ve yazılım geliştirme tarafında kendimi geliştirmeye devam ediyorum.
 
 Kod yazarken olabildiğince:
 
